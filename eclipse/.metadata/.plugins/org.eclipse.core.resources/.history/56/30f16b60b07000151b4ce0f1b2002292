@@ -1,0 +1,20 @@
+[
+{
+"modid": "FirstModdingExperience",
+"name": "First Modding Experience",
+"description": "My first Modding experience.",
+"version": "1.7.10-1.0",
+"credits": "Ghost8909, Pahimar (Tutorials)",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateURL": "",
+"authors": "Ghost8909",
+"parent": "",
+"requiredMods": ["Forge"],
+"dependancies": ["mod_MinecraftForge"],
+"dependants": [""],
+"screenshots": [""],
+"useDependancyInformation": false
+}
+]
