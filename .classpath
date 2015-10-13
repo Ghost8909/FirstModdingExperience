@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="com/ghost8909/firstmoddingexperience/refference/" kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Alexander/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forgeSrc-1.7.10-10.13.4.1517-1.7.10.jar" sourcepath="C:/Users/Alexander/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forgeSrc-1.7.10-10.13.4.1517-1.7.10-sources.jar"/>

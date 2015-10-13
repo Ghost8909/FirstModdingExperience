@@ -1,5 +1,6 @@
 package com.ghost8909.firstmoddingexperience.proxy;
 
-public class CommonProxy {
+public abstract class CommonProxy implements IProxy
+{
 
 }
