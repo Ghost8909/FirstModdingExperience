@@ -4,7 +4,7 @@ import com.ghost8909.firstmoddingexperience.handler.ConfigurationHandler;
 import com.ghost8909.firstmoddingexperience.proxy.IProxy;
 import com.ghost8909.firstmoddingexperience.proxy.reference.Reference;
 import com.ghost8909.firstmoddingexperience.utility.LogHelper;
-import cpw.mods.fml.common.FMLCommonHandler;
+
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -24,7 +24,6 @@ public class FirstModdingExperience
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 		LogHelper.info("Pre Initialization Complete!");
 	}
 	

@@ -1,13 +1,13 @@
-[23:23:09] [main/INFO]: Setting user: Player334
-[23:23:11] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:23:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
-[23:23:25] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
-[23:23:26] [Sound Library Loader/INFO]: Sound engine started
-[23:23:28] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[23:23:28] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[23:23:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
-[23:23:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
-[23:23:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:23:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:23:30] [Sound Library Loader/INFO]: Sound engine started
-[23:23:59] [Client thread/INFO]: Stopping!
+[23:49:39] [main/INFO]: Setting user: Player617
+[23:49:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:49:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
+[23:49:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
+[23:49:57] [Sound Library Loader/INFO]: Sound engine started
+[23:49:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:49:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:49:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
+[23:49:59] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
+[23:50:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:50:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:50:01] [Sound Library Loader/INFO]: Sound engine started
+[23:50:18] [Client thread/INFO]: Stopping!
