@@ -5,4 +5,10 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPostInitializationEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Instance"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="com.ghost8909.firstmoddingexperience.proxy.IProxy"/>
+<fullyQualifiedTypeName name="com.ghost8909.firstmoddingexperience.proxy.refference.Reference"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.ghost8909.firstmoddingexperience.configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
 </qualifiedTypeNameHistroy>
