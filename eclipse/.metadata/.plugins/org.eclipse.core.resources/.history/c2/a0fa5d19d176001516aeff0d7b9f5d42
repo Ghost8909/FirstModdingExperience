@@ -1,0 +1,11 @@
+package com.ghost8909.firstmoddingexperience.items;
+
+import net.minecraft.item.Item;
+
+public class ItemsFME extends Item
+{
+	public ItemsFME()
+	{
+		super();
+	}
+}

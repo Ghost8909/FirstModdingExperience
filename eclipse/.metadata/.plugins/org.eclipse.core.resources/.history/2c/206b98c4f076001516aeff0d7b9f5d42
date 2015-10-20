@@ -1,0 +1,16 @@
+package com.ghost8909.firstmoddingexperience.init;
+
+import com.ghost8909.firstmoddingexperience.blocks.BlockCopper;
+import com.ghost8909.firstmoddingexperience.blocks.BlocksFME;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModBlocks 
+{
+	public static final BlocksFME copperBlock = new BlockCopper();
+	
+	public static void init()
+	{
+		GameRegistry.registerBlock(copperBlock, "copperBlock");
+	}
+}

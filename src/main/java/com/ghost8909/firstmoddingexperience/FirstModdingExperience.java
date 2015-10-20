@@ -1,6 +1,8 @@
 package com.ghost8909.firstmoddingexperience;
 
 import com.ghost8909.firstmoddingexperience.handler.ConfigurationHandler;
+import com.ghost8909.firstmoddingexperience.init.ModBlocks;
+import com.ghost8909.firstmoddingexperience.init.ModItems;
 import com.ghost8909.firstmoddingexperience.proxy.IProxy;
 import com.ghost8909.firstmoddingexperience.proxy.reference.Reference;
 import com.ghost8909.firstmoddingexperience.utility.LogHelper;
@@ -26,6 +28,9 @@ public class FirstModdingExperience
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 		LogHelper.info("Pre Initialization Complete!");
+		
+		ModItems.init();
+		ModBlocks.init();
 	}
 	
 	@Mod.EventHandler

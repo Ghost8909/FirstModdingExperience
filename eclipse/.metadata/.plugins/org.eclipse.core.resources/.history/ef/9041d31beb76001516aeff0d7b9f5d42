@@ -1,0 +1,10 @@
+package com.ghost8909.firstmoddingexperience.blocks;
+
+public class BlockCopper extends BlocksFME
+{
+	public BlockCopper()
+	{
+		super();
+		this.setBlockName("blockCopper");
+	}
+}

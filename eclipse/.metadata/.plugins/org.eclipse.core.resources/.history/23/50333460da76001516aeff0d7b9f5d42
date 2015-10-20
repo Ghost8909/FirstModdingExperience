@@ -1,0 +1,15 @@
+package com.ghost8909.firstmoddingexperience.init;
+
+import com.ghost8909.firstmoddingexperience.items.ItemMapleLeaf;
+import com.ghost8909.firstmoddingexperience.items.ItemsFME;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems 
+{
+	public static final ItemsFME mapleLeaf = new ItemMapleLeaf();
+	
+	public static void init()
+	{
+		GameRegistry.registerItem(mapleLeaf, "mapleLeaf");
+	}
+}

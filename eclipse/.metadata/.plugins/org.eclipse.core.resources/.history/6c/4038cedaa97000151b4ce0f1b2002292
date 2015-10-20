@@ -1,8 +1,0 @@
-package com.ghost8909.firstmoddingexperience;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod(modid="FirstModdingExperience", name="First Modding Experience", version="1.7.10-1.0")
-public class FirstModdingExperience 
-{
-}

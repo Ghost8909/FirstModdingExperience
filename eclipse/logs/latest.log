@@ -1,13 +1,44 @@
-[23:49:39] [main/INFO]: Setting user: Player617
-[23:49:41] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:49:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
-[23:49:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
-[23:49:57] [Sound Library Loader/INFO]: Sound engine started
-[23:49:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[23:49:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[23:49:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
-[23:49:59] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: FirstModdingExperience/ in C:\Users\Alexander\Workspace Mod Projects\Minecraft\1.7\FirstModdingExperience\bin
-[23:50:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:50:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:50:01] [Sound Library Loader/INFO]: Sound engine started
-[23:50:18] [Client thread/INFO]: Stopping!
+[02:07:00] [main/INFO]: Setting user: Player42
+[02:07:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[02:07:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
+[02:07:11] [Sound Library Loader/INFO]: Sound engine started
+[02:07:12] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[02:07:12] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[02:07:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Modding Experience
+[02:07:13] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[02:07:13] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[02:07:14] [Sound Library Loader/INFO]: Sound engine started
+[02:07:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[02:07:17] [Server thread/INFO]: Generating keypair
+[02:07:17] [Server thread/INFO]: Preparing start region for level 0
+[02:07:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[02:07:19] [Server thread/INFO]: Player42[local:E:867415fd] logged in with entity id 140 at (-1278.5841402253818, 4.0, -1048.8456807507596)
+[02:07:19] [Server thread/INFO]: Player42 joined the game
+[02:07:32] [Server thread/INFO]: Player42 has just earned the achievement [Taking Inventory]
+[02:07:32] [Client thread/INFO]: [CHAT] Player42 has just earned the achievement [Taking Inventory]
+[02:08:10] [Server thread/INFO]: [Player42: Set own game mode to Survival Mode]
+[02:08:10] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[02:08:37] [Server thread/INFO]: [Player42: Set own game mode to Creative Mode]
+[02:08:37] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[02:08:42] [Server thread/INFO]: [Player42: Set own game mode to Survival Mode]
+[02:08:42] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[02:09:26] [Server thread/INFO]: [Player42: Set own game mode to Creative Mode]
+[02:09:26] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[02:09:38] [Client thread/INFO]: [CHAT] FirstModdingExperience:horseCockSword, FirstModdingExperience:katanaSword, FirstModdingExperience:copperBlock, FirstModdingExperience:mapleLeaf
+[02:09:39] [Server thread/INFO]: [Player42: Given [Horse Cock Sword] * 1 to Player42]
+[02:09:39] [Client thread/INFO]: [CHAT] Given [Horse Cock Sword] * 1 to Player42
+[02:13:54] [Server thread/INFO]: Saving and pausing game...
+[02:13:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:13:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:13:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:13:57] [Server thread/INFO]: Saving and pausing game...
+[02:13:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:13:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:13:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:14:00] [Server thread/INFO]: Stopping server
+[02:14:00] [Server thread/INFO]: Saving players
+[02:14:00] [Server thread/INFO]: Saving worlds
+[02:14:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[02:14:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[02:14:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[02:14:02] [Client thread/INFO]: Stopping!
